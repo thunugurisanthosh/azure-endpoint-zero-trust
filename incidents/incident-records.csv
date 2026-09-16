@@ -1,0 +1,6 @@
+Incident,Issue,Root Cause,Resolution,Status
+INC001,Device non-compliant,Firewall or security requirement failed,Remediated endpoint and synchronized,Resolved
+INC002,Application not installed,Deployment or assignment issue,Corrected assignment and synchronized,Resolved
+INC003,Policy not applied,Device pending synchronization,Manual sync and verification,Resolved
+INC004,Login blocked,Device did not meet Conditional Access requirement,Remediated compliance state,Resolved
+INC005,MFA issue,Authentication configuration problem,Corrected test configuration,Resolved
