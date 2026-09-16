@@ -1,4 +1,4 @@
-# Azure Endpoint Management & Zero-Trust IT Operations Lab
+# Azure Endpoint Management & Zero-Trust IT Operations 
 
 ## Project Overview
 A practical Microsoft Azure / Microsoft Entra / Microsoft Intune lab demonstrating modern endpoint administration, device compliance, application deployment, endpoint security, Conditional Access, and troubleshooting.
